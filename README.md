@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaColes98
 - 👀 I’m interested in becoming a well rounded full stack developer
-- 🌱 I’m currently/improving upon JS, TS, React, Python, Electron and C#
+- 🌱 I’m currently working on/improving upon JS, TS, React, Python, Electron, C#, Java and Python
 - 📫 If you wish to contact me, please do it through my Linkedin
 - ⚡ Fun fact: I am obsessed with Marvel
